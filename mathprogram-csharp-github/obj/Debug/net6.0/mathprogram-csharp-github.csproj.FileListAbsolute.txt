@@ -1,0 +1,15 @@
+C:\Users\Josem\Music\git4\mathprogram-csharp-github\bin\Debug\net6.0\mathprogram-csharp-github.exe
+C:\Users\Josem\Music\git4\mathprogram-csharp-github\bin\Debug\net6.0\mathprogram-csharp-github.deps.json
+C:\Users\Josem\Music\git4\mathprogram-csharp-github\bin\Debug\net6.0\mathprogram-csharp-github.runtimeconfig.json
+C:\Users\Josem\Music\git4\mathprogram-csharp-github\bin\Debug\net6.0\mathprogram-csharp-github.dll
+C:\Users\Josem\Music\git4\mathprogram-csharp-github\bin\Debug\net6.0\mathprogram-csharp-github.pdb
+C:\Users\Josem\Music\git4\mathprogram-csharp-github\obj\Debug\net6.0\mathprogram-csharp-github.csproj.AssemblyReference.cache
+C:\Users\Josem\Music\git4\mathprogram-csharp-github\obj\Debug\net6.0\mathprogram-csharp-github.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josem\Music\git4\mathprogram-csharp-github\obj\Debug\net6.0\mathprogram-csharp-github.AssemblyInfoInputs.cache
+C:\Users\Josem\Music\git4\mathprogram-csharp-github\obj\Debug\net6.0\mathprogram-csharp-github.AssemblyInfo.cs
+C:\Users\Josem\Music\git4\mathprogram-csharp-github\obj\Debug\net6.0\mathprogram-csharp-github.csproj.CoreCompileInputs.cache
+C:\Users\Josem\Music\git4\mathprogram-csharp-github\obj\Debug\net6.0\mathprogram-csharp-github.dll
+C:\Users\Josem\Music\git4\mathprogram-csharp-github\obj\Debug\net6.0\refint\mathprogram-csharp-github.dll
+C:\Users\Josem\Music\git4\mathprogram-csharp-github\obj\Debug\net6.0\mathprogram-csharp-github.pdb
+C:\Users\Josem\Music\git4\mathprogram-csharp-github\obj\Debug\net6.0\mathprogram-csharp-github.genruntimeconfig.cache
+C:\Users\Josem\Music\git4\mathprogram-csharp-github\obj\Debug\net6.0\ref\mathprogram-csharp-github.dll
